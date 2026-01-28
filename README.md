@@ -149,28 +149,17 @@ These skills and project structures align with common SOC and GRC portfolio expe
 ## Tools
 
 ### Network
-<div>
-    <img width="553" height="562" alt="wireshark" src="https://github.com/user-attachments/assets/f4718bd8-c1be-424b-923c-c571504523dc" />
-    <img width="447" height="531" alt="suricata" src="https://github.com/user-attachments/assets/9b66f3a9-5e38-4c0f-8a91-680b11dce522" />
-    <img width="489" height="519" alt="zeek" src="https://github.com/user-attachments/assets/ad46bb5b-4f34-4d54-ab2c-9e1dbe5e4a30" />
-
-</div>
-
+   * Wireshark
+   * Suricata
+   * Zeek
 ### Endpoint
-<div>
-    <img width="523" height="571" alt="microsoft defender" src="https://github.com/user-attachments/assets/829dff67-e9c2-4230-b6aa-de29cdb0fb90" />
-    <img width="714" height="723" alt="Velociraptor" src="https://github.com/user-attachments/assets/254890f1-a0bb-400a-8c3b-b29891136970" />
-
-    
-</div>
-
+   * Microsoft Defender
+   * Velociraptor
 ### SIEM
-<div>
-    <img width="707" height="683" alt="microsoft sentinel" src="https://github.com/user-attachments/assets/628bd107-c32c-4894-9568-a4a8ab3681a4" />
-    <img width="453" height="545" alt="splunk" src="https://github.com/user-attachments/assets/0c017c9a-642f-4b56-941e-aec1e2fe6cf7" />
-     <img width="505" height="545" alt="elastic" src="https://github.com/user-attachments/assets/3d501fa7-206b-4096-a3a7-251711c1e32d" />
+   * Microsoft Sentinel
+   * Splunk
+   * Elastic
 
-</div>
 
 These tools are widely used in SOC environments and are commonly included in hands-on training for cyber operations and monitoring. [web:17][web:22]
 
