@@ -347,8 +347,8 @@ These links reflect common resources used by SOC and GRC professionals when buil
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourname@email.com  
-- Portfolio: https://github.com/yourusername  
+- LinkedIn:  https://www.linkedin.com/in/hephzibah-daniel-45a41a3a8/ 
+- Email: hephzibahdaniel2014@gmail.com 
+- Portfolio:  https://github.com/hephzibahdaniel/Cybersecurity-SOC-GRC-Portfolio/edit/main/README.md
 
 
