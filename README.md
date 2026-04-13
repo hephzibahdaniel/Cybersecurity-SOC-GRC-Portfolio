@@ -1,4 +1,4 @@
-# Cybersecurity-SOC-GRC-Portfolio
+# Cybersecurity-SOC-Portfolio
 Cybersecurity SOC GRC Portfolio
 # 
 Cybersecurity Project Portfolio
